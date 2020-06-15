@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/epiacentini/Personal_Website/issues"
   },
-  "homepage": "https://github.com/epiacentini/Personal_Website",
+  "homepage": "https://epiacentini.github.io/Personal_Website",
   "devDependencies": {
     "gh-pages": "^3.0.0"
   }
