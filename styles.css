@@ -250,6 +250,55 @@ li {
   border: 3px solid #c2c5cc;
 }
 
+@media screen and (min-width: 1180px) and (max-width: 1430px) {
+  .ab-container .text-space {
+    color: #fff;
+    position: relative;
+    top: 50%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    font-size: 1.25em;
+    font-weight: 200px;
+    width: 40%;
+    line-height: 50px;
+  }
+
+  .ab-container .text-space a {
+    color: white;
+  }
+
+  .ab-container .ab-img {
+    float: right;
+    height: 600px;
+    width: 600px;
+    margin-top: 150px;
+    margin-right: 70px;
+    border: 3px solid #c2c5cc;
+  }
+
+  .ab-container {
+    margin-top: 30px;
+    height: 100vh;
+    width: 100%;
+    background-color: #262626;
+    text-align: center;
+    display: inline-block;
+    /*padding-bottom: 1000px;*/
+  }
+
+  .card {
+    position: relative;
+    background: #fff;
+    width: 600px;
+    height: 700px;
+    margin: 0 auto;
+  }
+
+  .move {
+    padding: 50px;
+  }
+}
+
 .space {
   padding: 150px;
 }
